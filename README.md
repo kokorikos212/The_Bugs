@@ -1,2 +1,2 @@
 # The_Bugs
-Our team, the Bugs, solved one of the challenges at the first 2024 Makeathon AI Conference, hosted by UniAI in Athens.
+Our team, the Bugs, solved one of the challenges at the first 2024 Makeathon AI Conference, hosted by UniAI in Athens. The final product is an AI web app assistant that can analyze your industrial data and extract meaningful information. The app then returns this data in the form of graphs and natural language. This was made possible using Amazon services and will not be available to the general public, as it was mainly made for the purposes of the Makeathon 2024 challenge in Athens.
